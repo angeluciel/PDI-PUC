@@ -1,7 +1,7 @@
 # Plano de Desenvolvimento Individual
 Meu PDI para 2026-01 (primeiro semestre de 2026).
 ## Objetivo do semestre
-Minha principal motivação nesta disciplina é construir uma base sólida na resolução de problemas complexos e na otimização de código. Desejo dominar estruturas não-lineares, especialmente travessia em grafos e técnicas de programação dinâmica. Esse aprofundamento é essencial para o meu desenvolvimento em engenharia de software e arquitetura de sistemas, conectando-se diretamente com o meu TCC em andamento, onde a estruturação de um backend em camadas e o uso do modelo C4 exigem decisões arquiteturais baseadas em algoritmos eficientes e performáticos.
+Admito que não domino completamente estrutura de dados, principalmente árvores e grafos. Quero me aprofundar nesses assuntos, abordando também travessia e programação dinâmica se possível. Desejo me tornar mais que um desenvolvedor, e usar o título de **Engenheiro de Software** para o que ele foi criado. Adoro estudar sobre arquiteturas, algoritmos, criar códigos de manutenibilidade boa e melhorar a performance dos meus sistemas.
 
 ## Diagnóstico inicial
 ### Análise de complexidade:
